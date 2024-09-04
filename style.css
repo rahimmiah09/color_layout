@@ -1,0 +1,105 @@
+.header{
+    height: 100px;
+    background-color: red;
+}
+.container{
+
+    overflow: hidden;
+}
+
+.blog{
+     height: 100px;
+     background-color: brown;
+     width: 70%;
+     float: left;
+}
+.contact{
+    height: 100px;
+    background-color: aqua;
+    width: 30%;
+    float: right;
+}
+
+
+.item1{
+    height: 100px;
+    width: 33.33%;
+    background-color: blue;
+    float: left;
+}
+.item2{
+    height: 100px;
+    width: 33.33%;
+    background-color: blueviolet;
+    float: left;
+}
+.item3{
+    height: 100px;
+    width: 33.33%;
+    background-color: lightgreen;
+   
+    float: left;
+}
+
+.item11{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: violet ;
+}
+.item22{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: lightblue ;
+}
+.item33{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: bisque;
+}
+.item44{
+    float: left;
+    width: 25%;
+    height: 100px;
+    background-color: lightpink;
+}
+
+.item111{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: darkviolet;
+}
+.item222{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: yellow ;
+}
+.item333{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: darkcyan ;
+}
+.item444{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: darkgreen ;
+}
+.item555{
+    float: left;
+    width: 20%;
+    height: 100px;
+    background-color: darkred ;
+}
+
+.footer{
+    height: 100px;
+    background-color: black;
+    width: 100%;
+
+}
